@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="735fa12f-70a1-4f40-9403-3366a071b6c3" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../../frontend/pythonprac/dbmovie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../frontend/pythonprac/dbprac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../frontend/pythonprac/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../frontend/pythonprac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/pythonprac/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../frontend/pythonprac/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/pythonprac/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -43,7 +38,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/minkyu-lee/바탕화면/sparta/projects/homework&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/minkyu-lee/바탕화면/toyproject/dogcommunity&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -64,6 +59,10 @@
       <workItem from="1667297992583" duration="1397000" />
       <workItem from="1667373295663" duration="650000" />
       <workItem from="1667378953139" duration="960000" />
+      <workItem from="1667399657102" duration="169000" />
+      <workItem from="1667408059954" duration="1206000" />
+      <workItem from="1667545140222" duration="33000" />
+      <workItem from="1667545572454" duration="22000" />
     </task>
     <servers />
   </component>

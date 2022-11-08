@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f04edf21-f06f-4575-a0e5-caba0f4e3a93" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/ajax01.HTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajax02.HTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajax03.HTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery01.HTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax01.HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax02.HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax03.HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery01.HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects/homework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/homework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects/homework/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/homework/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,19 +36,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/minkyu-lee/바탕화면/sparta/frontend&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/minkyu-lee/바탕화면/sparta/projects/prac",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="frontend" />
@@ -96,6 +96,7 @@
       <workItem from="1667230680117" duration="2617000" />
       <workItem from="1667233635115" duration="587000" />
       <workItem from="1667234255319" duration="596000" />
+      <workItem from="1667894462785" duration="36000" />
     </task>
     <servers />
   </component>

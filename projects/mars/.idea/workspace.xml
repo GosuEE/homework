@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37c7fca8-a979-4e37-b072-ca51a1d33b34" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../../frontend/pythonprac/dbmovie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../frontend/pythonprac/dbprac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../frontend/pythonprac/homework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../frontend/pythonprac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/pythonprac/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../frontend/pythonprac/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/pythonprac/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/ajax01.HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/ajax02.HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/ajax03.HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/jquery01.HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../homework/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,19 +40,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/minkyu-lee/바탕화면/sparta/projects/bucket",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -61,6 +66,7 @@
       <workItem from="1667291018593" duration="37000" />
       <workItem from="1667291105998" duration="19000" />
       <workItem from="1667291269555" duration="1390000" />
+      <workItem from="1667895826209" duration="689000" />
     </task>
     <servers />
   </component>

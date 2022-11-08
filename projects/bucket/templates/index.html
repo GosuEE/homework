@@ -81,6 +81,7 @@
         .mybox > li > h2.done {
             text-decoration: line-through
         }
+
     </style>
     <script>
         $(document).ready(function () {
@@ -109,6 +110,7 @@
                         } else {
                             temp_html = `<li>
                                             <h2 class="done">✅ ${bucket}</h2>
+                                            <button onclick="undone_bucket(${num})" type="button" class="btn btn-outline-danger">취소!</button>
                                          </li>`
                         }
                         $('#bucket-list').append(temp_html)
@@ -141,6 +143,19 @@
                 }
             });
         }
+
+        function undone_bucket(num) {
+            $.ajax({
+                type: "POST",
+                url: "/bucket/undone",
+                data: {num: num},
+                success: function (response) {
+                    alert(response["msg"])
+                    window.location.reload()
+                }
+            });
+        }
+
     </script>
 </head>
 <body>
